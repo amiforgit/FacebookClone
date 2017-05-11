@@ -3,15 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.cmpe277labs.amipa.facebookclone.MainActivity">
 
-    <item android:id="@+id/action_navigation"
+    <item android:id="@+id/action_upload"
         android:title="Upload"
         android:icon="@android:drawable/ic_input_add" />
 
-    <item android:id="@+id/action_settings"
+    <item android:id="@+id/action_search"
         android:title="Requests"
         android:icon="@drawable/ic_requests" />
 
-    <item android:id="@+id/action_search"
+    <item android:id="@+id/action_settings"
         android:title="Settings"
         android:icon="@drawable/ic_settings_black_24dp" />
 
